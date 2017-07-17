@@ -1,0 +1,16 @@
+{
+    "contents" : "useDynLib(icamix)\nimportFrom(Rcpp, evalCpp)\nimportFrom(\"graphics\", \"par\", \"plot\")\nimportFrom(\"stats\", \"kmeans\", \"plot.ts\")\nexportPattern(\"^[[:alpha:]]+\")\nS3method(plot, EMFASTICAALG)\nS3method(summary, EMFASTICAALG)\nS3method(print, summary.EMFASTICAALG)\nS3method(print, EMFASTICAALG)\nS3method(plot, summary.EMFASTICAALG)\n",
+    "created" : 1445484707619.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "867372416",
+    "id" : "6E2B70FF",
+    "lastKnownWriteTime" : 1445484726,
+    "path" : "E:/XTZ/Zeus/ManOnTheMoon/ExpressEMFastICA/icamix/NAMESPACE",
+    "project_path" : "NAMESPACE",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_namespace"
+}

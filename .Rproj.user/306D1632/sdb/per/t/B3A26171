@@ -1,0 +1,16 @@
+{
+    "contents" : "Package: icamix\nType: Package\nTitle: Estimation of ICA Mixture Models\nVersion: 1.0.3\nDate: 2015-04-19\nAuthor: Xiaotian Zhu, David R. Hunter\nMaintainer: Xiaotian Zhu <xiaotian.zhu@abbvie.com>\nDescription: The icamix package provides R functions as well as a C++ library which facilitate the estimation of ICA mixture models. We have developed and implemented the NSMM-ICA algorithm that currently integrates npEM and Fast-ICA for non-parametric estimation of ICA mixture models. We will continue to build in algorithms that interweave the EM step with other types of ICA techniques.\nSuggests: mixtools\nLicense: GPL-2 | GPL-3\nImports: Rcpp (>= 0.11.5)\nLinkingTo: Rcpp, RcppArmadillo\n",
+    "created" : 1445485836658.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "782175866",
+    "id" : "B3A26171",
+    "lastKnownWriteTime" : 1445478706,
+    "path" : "E:/XTZ/Zeus/ManOnTheMoon/ExpressEMFastICA/icamix/DESCRIPTION",
+    "project_path" : "DESCRIPTION",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "dcf"
+}
